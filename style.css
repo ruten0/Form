@@ -1,0 +1,62 @@
+*{
+margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    box-sizing:border-box
+}
+div{
+    
+    width: 30%;
+    height: 50vh;
+    display: inline-block;
+    vertical-align:top;
+    margin: 60px
+ 
+}
+
+.forma{
+    height: auto;
+}
+
+body{
+    text-align: center;
+}
+form{
+    width: 100%;
+    height: auto;
+}
+input, textarea{
+    width: 100%;
+    padding: 20px;
+    border: none;
+    box-shadow: 3px 3px 6px darkblue
+    
+}
+.button{
+    width: 200px
+}
+
+.button:hover{
+    background-color: darkblue
+    
+}
+
+.button:active{
+    
+    box-shadow: none;
+}
+
+.map{
+    outline: 2px dashed blue;
+        
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+
+    
+
